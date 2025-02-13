@@ -18,3 +18,5 @@
    **- npm install** 
    **- npm run dev**
 3. Веб-приложение будет доступно по адресу **localhost:5173**.
+
+**Стек**: Vue.js, JavaScript, Composition API, Vue Router, Pinia, TailwindCSS, Vite
